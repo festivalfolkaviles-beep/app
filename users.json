@@ -1,1 +1,8 @@
-
+[
+    {
+        "username": "admin",
+        "password": "festival2024",
+        "name": "Admin User",
+        "role": "admin"
+    }
+]
