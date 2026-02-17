@@ -1,1 +1,63 @@
-
+[
+    {
+        "year": 2023,
+        "theme": "Ritmos del Mundo",
+        "summary": "Una celebración vibrante con grupos de 15 países. Esta edición destacó por la fusión de ritmos africanos y latinoamericanos.",
+        "image": "https://images.unsplash.com/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "highlights": [
+            "Récord de asistencia",
+            "Delegación de Japón premiada"
+        ],
+        "groups": [
+            "Ensemble de Danza Ucraniana",
+            "Compañía de Danza de México",
+            "Gaiteros de Avilés",
+            "Folk del Japón",
+            "Ritmos de Senegal"
+        ],
+        "gallery": [
+            "https://images.unsplash.com/photo-1533174072545-e8d4aa97edf9?w=800",
+            "https://images.unsplash.com/photo-1547448415-e9f5b28e570d?w=800",
+            "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "year": 2022,
+        "theme": "Raíces Vivas",
+        "summary": "El retorno triunfal tras la pandemia. Una edición emotiva que reconectó a la ciudad con sus tradiciones más profundas.",
+        "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "highlights": [
+            "Apertura con gaita asturiana",
+            "Noche celta"
+        ],
+        "groups": [
+            "Danzas Africanas Senegal",
+            "Gaitas de Asturias",
+            "Celta Dance Ireland",
+            "Folklore de Chile"
+        ],
+        "gallery": [
+            "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=800",
+            "https://images.unsplash.com/photo-1501612722-29729518bf6f?w=800"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "year": 2021,
+        "theme": "Conexión Digital",
+        "summary": "Edición híbrida con actuaciones en streaming. A pesar de las restricciones, el festival llegó a más de 50 países online.",
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "highlights": [
+            "Transmisión global",
+            "Talleres virtuales"
+        ],
+        "groups": [
+            "Folklore de Chile",
+            "Academia Digital Avilés",
+            "Gaitas Virtuales",
+            "Danza Moderna Estilo"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+]
