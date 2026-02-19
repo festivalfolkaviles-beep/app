@@ -1,60 +1,62 @@
 [
-  {
-    "id": 1,
-    "name": "Sabugo ¡Tente Firme!",
-    "country": "España",
-    "region": "Asturias",
-    "image": "https://images.unsplash.com/photo-1543022252-c8fa7d20c57c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-    "description": "El Grupo Folklórico Sabugo ¡Tente Firme! es un referente cultural en Avilés. Fundado para preservar y difundir las tradiciones asturianas, su repertorio abarca desde jotas y muñeiras hasta danzas rituales ancestrales. Sus trajes, fieles reproducciones del siglo XIX, añaden un componente visual histórico a sus enérgicas actuaciones.",
-    "founded": 1985,
-    "performers": 45,
-    "awards": 8,
-    "colors": {
-      "primary": "#FFC400",
-      "secondary": "#AA151B"
+    {
+        "name": "Sabugo ¡Tente Firme!",
+        "country": "España",
+        "region": "Asturias",
+        "image": "https:\/\/images.unsplash.com\/photo-1543022252-c8fa7d20c57c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "description": "El Grupo Folklórico Sabugo ¡Tente Firme! es un referente cultural en Avilés. Fundado para preservar y difundir las tradiciones asturianas, su repertorio abarca desde jotas y muñeiras hasta danzas rituales ancestrales. Sus trajes, fieles reproducciones del siglo XIX, añaden un componente visual histórico a sus enérgicas actuaciones.",
+        "founded": "1963",
+        "performers": "25",
+        "awards": "18",
+        "gallery": [
+            "https:\/\/images.unsplash.com\/photo-1516450360452-9312f5e86fc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80\r",
+            "https:\/\/images.unsplash.com\/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80\r",
+            "https:\/\/images.unsplash.com\/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        ],
+        "id": 1,
+        "colors": {
+            "primary": "#FFC400",
+            "secondary": "#AA151B"
+        }
     },
-    "gallery": [
-      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Ballet Folklórico de México",
-    "country": "México",
-    "image": "https://images.unsplash.com/photo-1518175736208-41d5bf29f931?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-    "description": "Fundado por Amalia Hernández, el grupo es una leyenda viva. Mezclan rituales ancestrales con precisión técnica para mostrar el alma de México. Su repertorio abarca más de sesenta coreografías, dando vida a los colores de Jalisco, el espíritu de Veracruz y la magia de los mitos prehispánicos.",
-    "founded": 1952,
-    "performers": 70,
-    "awards": 12,
-    "colors": {
-      "primary": "#006847",
-      "secondary": "#CE1126"
+    {
+        "name": "Ballet Folklórico de México",
+        "country": "México",
+        "region": "",
+        "image": "https:\/\/images.unsplash.com\/photo-1518175736208-41d5bf29f931?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "description": "Fundado por Amalia Hernández, el grupo es una leyenda viva. Mezclan rituales ancestrales con precisión técnica para mostrar el alma de México. Su repertorio abarca más de sesenta coreografías, dando vida a los colores de Jalisco, el espíritu de Veracruz y la magia de los mitos prehispánicos.",
+        "founded": "1952",
+        "performers": "70",
+        "awards": "12",
+        "gallery": [
+            "https:\/\/images.unsplash.com\/photo-1543022252-c8fa7d20c57c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80\r",
+            "https:\/\/images.unsplash.com\/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80\r",
+            "https:\/\/images.unsplash.com\/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        ],
+        "id": 2,
+        "colors": {
+            "primary": "#006847",
+            "secondary": "#CE1126"
+        }
     },
-    "gallery": [
-      "https://images.unsplash.com/photo-1543022252-c8fa7d20c57c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Ensemble Georgiano",
-    "country": "Georgia",
-    "image": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-    "description": "Conocidos por su increíble destreza física y elegancia, el Ensemble Georgiano trae al escenario la rica historia del Cáucaso. Sus danzas de guerra y celebraciones de boda son un espectáculo de coordinación y fuerza.",
-    "founded": 1990,
-    "performers": 35,
-    "awards": 5,
-    "colors": {
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF"
-    },
-    "gallery": [
-      "https://images.unsplash.com/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1518175736208-41d5bf29f931?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-    ]
-  }
+    {
+        "name": "Ensemble Georgiano",
+        "country": "Georgia",
+        "region": "",
+        "image": "https:\/\/images.unsplash.com\/photo-1504609813442-a8924e83f76e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "description": "Conocidos por su increíble destreza física y elegancia, el Ensemble Georgiano trae al escenario la rica historia del Cáucaso. Sus danzas de guerra y celebraciones de boda son un espectáculo de coordinación y fuerza.",
+        "founded": "1990",
+        "performers": "35",
+        "awards": "5",
+        "gallery": [
+            "https:\/\/images.unsplash.com\/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80\r",
+            "https:\/\/images.unsplash.com\/photo-1516450360452-9312f5e86fc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80\r",
+            "https:\/\/images.unsplash.com\/photo-1518175736208-41d5bf29f931?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        ],
+        "id": 3,
+        "colors": {
+            "primary": "#FF0000",
+            "secondary": "#FFFFFF"
+        }
+    }
 ]
