@@ -4,5 +4,11 @@
         "password": "festival2024",
         "name": "Admin User",
         "role": "admin"
+    },
+    {
+        "username": "Beznar",
+        "password": "Beznar2009",
+        "name": "Beznar",
+        "role": "admin"
     }
 ]
