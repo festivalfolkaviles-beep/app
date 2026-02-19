@@ -4,10 +4,10 @@
         "title": "Desfile de Inauguración",
         "date": "2025-08-20",
         "time": "19:00",
-        "location": "Plaza de España",
+        "location": "Plaza de España y Calles de la Villa",
         "description": "Desfile de todos los grupos participantes por las calles de Avilés.",
         "type": "parade",
-        "image": "https://folkloricoaviles.es/imagenes/img1.jpg"
+        "image": "https:\/\/folkloricoaviles.es\/imagenes\/img1.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "location": "Centro Niemeyer",
         "description": "Actuación principal con todos los grupos.",
         "type": "performance",
-        "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        "image": "https:\/\/images.unsplash.com\/photo-1514525253440-b393452e8d26?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "location": "Plaza de España",
         "description": "Música y danza al aire libre.",
         "type": "concert",
-        "image": "https://images.unsplash.com/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        "image": "https:\/\/images.unsplash.com\/photo-1533174072545-e8d4aa97edf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     },
     {
         "id": 4,
@@ -37,6 +37,6 @@
         "location": "Auditorio Casa de Cultura",
         "description": "Ceremonia de clausura y entrega de recuerdos.",
         "type": "ceremony",
-        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        "image": "https:\/\/images.unsplash.com\/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
 ]
