@@ -4,6 +4,7 @@
         "password": "festival2024",
         "name": "Admin User",
         "role": "admin"
+        "qr-code": "ADMIN-QR-2024-X1"
     },
     {
         "username": "Beznar",
