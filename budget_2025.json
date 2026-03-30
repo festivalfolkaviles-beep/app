@@ -1,0 +1,16 @@
+{
+    "totalBudget": 150000,
+    "spent": 87500,
+    "categories": [
+        { "id": 1, "name": "Cachés Artísticos", "allocated": 60000, "spent": 45000, "color": "#E5B036" },
+        { "id": 2, "name": "Alojamiento y Dietas", "allocated": 40000, "spent": 28000, "color": "#5A9BFF" },
+        { "id": 3, "name": "Producción Técnica", "allocated": 30000, "spent": 12000, "color": "#FF6464" },
+        { "id": 4, "name": "Transporte y Logística", "allocated": 20000, "spent": 2500, "color": "#00C853" }
+    ],
+    "expenses": [
+        { "id": 1, "desc": "Caché: Ballet de México", "category": "Cachés Artísticos", "amount": 12000, "date": "2025-08-10", "type": "expense" },
+        { "id": 2, "desc": "Reserva Hotel 40 Nudos", "category": "Alojamiento y Dietas", "amount": 4500, "date": "2025-08-12", "type": "expense" },
+        { "id": 3, "desc": "Patrocinio Ayuntamiento", "category": "Ingresos", "amount": 25000, "date": "2025-07-01", "type": "income" },
+        { "id": 4, "desc": "Alquiler Equipo Sonido (Anticipo)", "category": "Producción Técnica", "amount": 3000, "date": "2025-08-14", "type": "expense" }
+    ]
+}
